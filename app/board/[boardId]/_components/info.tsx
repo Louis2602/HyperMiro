@@ -38,7 +38,7 @@ export const Info = ({ boardId }: InfoProps) => {
 					<Link href='/'>
 						<Image
 							src='/logo.svg'
-							alt='HyperStack Logo'
+							alt='ZapyAI Logo'
 							height={40}
 							width={40}
 							className='mt-1.5'
